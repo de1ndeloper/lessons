@@ -1,0 +1,48 @@
+@import url(reset.css);
+
+.r {
+	color: red;
+}
+.o {
+	color: orange
+}
+.y {
+	color: yellow
+}
+.g {
+   color: green;
+}
+.b {
+   color: blue;
+}
+.i {
+   color: indigo;
+}
+.v {
+   color: violet;
+}
+div.main_par {
+	color: brown;
+}
+ul.list_hist {
+	color: orange;
+}
+.reasons p {
+	color: yellow;
+}
+.h2,
+.h3 {
+	color: red;
+}
+.color {
+	color: green;
+}
+[class*="text"] {
+   color: blue;
+}
+div {
+	color: indigo;
+}
+#html {
+	color: violet
+}
